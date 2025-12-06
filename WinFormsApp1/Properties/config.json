@@ -1,0 +1,58 @@
+{
+  "Ranges": [
+    {
+      "Min": 0,
+      "Max": 1000,
+      "WorkCost": 2700,
+      "Salary": 486
+    },
+    {
+      "Min": 1001,
+      "Max": 1500,
+      "WorkCost": 3000,
+      "Salary": 630
+    },
+    {
+      "Min": 1501,
+      "Max": 3000,
+      "WorkCost": 3500,
+      "Salary": 630
+    },
+    {
+      "Min": 3001,
+      "Max": 5000,
+      "WorkCost": 4500,
+      "Salary": 729
+    },
+    {
+      "Min": 5001,
+      "Max": 6000,
+      "WorkCost": 5540,
+      "Salary": 997
+    },
+    {
+      "Min": 6001,
+      "Max": 8000,
+      "WorkCost": 6800,
+      "Salary": 1224
+    },
+    {
+      "Min": 8001,
+      "Max": 12000,
+      "WorkCost": 7800,
+      "Salary": 1404
+    },
+    {
+      "Min": 12001,
+      "Max": 20000,
+      "WorkCost": 10250,
+      "Salary": 1404
+    },
+    {
+      "Min": 20001,
+      "Max": 999999,
+      "WorkCost": 10250,
+      "Salary": 1440
+    }
+  ]
+}
